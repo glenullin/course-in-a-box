@@ -2,6 +2,9 @@ title: Course in a Box
 description: Build Your Very Own Open Course
 modules: [start, community, learning, content, feedback, references]
 signups:
+- name: Gerard Ross
+image: https://pbs.twimg.com/profile_images/674918398703333376/83v0heea_400x400.png
+twitter: glenullin
  - name: Geert Hofman
    image: https://media.licdn.com/media/p/3/000/1b0/2c9/2daad0c.jpg
    twitter: GeertHa
